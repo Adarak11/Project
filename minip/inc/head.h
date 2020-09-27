@@ -1,6 +1,6 @@
 
-#ifndef __CALCULATOR_OPERATIONS_H__
-#define __CALCULATOR_OPERATIONS_H__
+#ifndef __HEAD_H__
+#define __HEAD_H__
 
 #include <stdio.h>
 #include <stdlib.h>
